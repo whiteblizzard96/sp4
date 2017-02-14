@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Fit All Screen Size/Demo.unity
+  isLoaded: 1
+  isActive: 1
